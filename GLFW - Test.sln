@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW - Test", "GLFW - Test\GLFW - Test.vcxproj", "{E1C0A739-DE6E-448A-9432-EC3514C4B501}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test2", "test2\test2.vcxproj", "{2D347A8F-2921-44AD-B62E-CF93334D2230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C0A739-DE6E-448A-9432-EC3514C4B501}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1C0A739-DE6E-448A-9432-EC3514C4B501}.Debug|Win32.Build.0 = Debug|Win32
+		{E1C0A739-DE6E-448A-9432-EC3514C4B501}.Release|Win32.ActiveCfg = Release|Win32
+		{E1C0A739-DE6E-448A-9432-EC3514C4B501}.Release|Win32.Build.0 = Release|Win32
+		{2D347A8F-2921-44AD-B62E-CF93334D2230}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D347A8F-2921-44AD-B62E-CF93334D2230}.Debug|Win32.Build.0 = Debug|Win32
+		{2D347A8F-2921-44AD-B62E-CF93334D2230}.Release|Win32.ActiveCfg = Release|Win32
+		{2D347A8F-2921-44AD-B62E-CF93334D2230}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
